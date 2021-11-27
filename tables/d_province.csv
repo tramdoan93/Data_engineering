@@ -1,0 +1,64 @@
+﻿province_id,province_name,level_,region_level1,region_level2
+01,Hà Nội,Thành phố Trung ương,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+02,Hà Giang,Tỉnh,Miền Bắc,ĐÔNG BẮC
+03,Cao Bằng,Tỉnh,Miền Bắc,ĐÔNG BẮC
+04,Bắc Kạn,Tỉnh,Miền Bắc,ĐÔNG BẮC
+05,Tuyên Quang,Tỉnh,Miền Bắc,ĐÔNG BẮC
+06,Lào Cai,Tỉnh,Miền Bắc,TÂY BẮC
+07,Điện Biên,Tỉnh,Miền Bắc,TÂY BẮC
+08,Lai Châu,Tỉnh,Miền Bắc,TÂY BẮC
+09,Sơn La,Tỉnh,Miền Bắc,TÂY BẮC
+10,Yên Bái,Tỉnh,Miền Bắc,TÂY BẮC
+11,Hoà Bình,Tỉnh,Miền Bắc,TÂY BẮC
+12,Thái Nguyên,Tỉnh,Miền Bắc,ĐÔNG BẮC
+13,Lạng Sơn,Tỉnh,Miền Bắc,ĐÔNG BẮC
+14,Quảng Ninh,Tỉnh,Miền Bắc,ĐÔNG BẮC
+15,Bắc Giang,Tỉnh,Miền Bắc,ĐÔNG BẮC
+16,Phú Thọ,Tỉnh,Miền Bắc,ĐÔNG BẮC
+17,Vĩnh Phúc,Tỉnh,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+18,Bắc Ninh,Tỉnh,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+19,Hải Dương,Tỉnh,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+20,Hải Phòng,Thành phố Trung ương,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+21,Hưng Yên,Tỉnh,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+22,Thái Bình,Tỉnh,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+23,Hà Nam,Tỉnh,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+24,Nam Định,Tỉnh,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+25,Ninh Bình,Tỉnh,Miền Bắc,ĐỒNG BẰNG SÔNG HỒNG
+26,Thanh Hóa,Tỉnh,Miền Trung,BẮC TRUNG BỘ
+27,Nghệ An,Tỉnh,Miền Trung,BẮC TRUNG BỘ
+28,Hà Tĩnh,Tỉnh,Miền Trung,BẮC TRUNG BỘ
+29,Quảng Bình,Tỉnh,Miền Trung,BẮC TRUNG BỘ
+30,Quảng Trị,Tỉnh,Miền Trung,BẮC TRUNG BỘ
+31,Thừa Thiên Huế,Tỉnh,Miền Trung,BẮC TRUNG BỘ
+32,Đà Nẵng,Thành phố Trung ương,Miền Trung,DUYÊN HẢI NAM TRUNG BỘ
+33,Quảng Nam,Tỉnh,Miền Trung,DUYÊN HẢI NAM TRUNG BỘ
+34,Quảng Ngãi,Tỉnh,Miền Trung,DUYÊN HẢI NAM TRUNG BỘ
+35,Bình Định,Tỉnh,Miền Trung,DUYÊN HẢI NAM TRUNG BỘ
+36,Phú Yên,Tỉnh,Miền Trung,DUYÊN HẢI NAM TRUNG BỘ
+37,Khánh Hòa,Tỉnh,Miền Trung,DUYÊN HẢI NAM TRUNG BỘ
+38,Ninh Thuận,Tỉnh,Miền Trung,DUYÊN HẢI NAM TRUNG BỘ
+39,Bình Thuận,Tỉnh,Miền Trung,DUYÊN HẢI NAM TRUNG BỘ
+40,Kon Tum,Tỉnh,Miền Trung,TÂY NGUYÊN
+41,Gia Lai,Tỉnh,Miền Trung,TÂY NGUYÊN
+42,Đắk Lắk,Tỉnh,Miền Trung,TÂY NGUYÊN
+43,Đắk Nông,Tỉnh,Miền Trung,TÂY NGUYÊN
+44,Lâm Đồng,Tỉnh,Miền Trung,TÂY NGUYÊN
+45,Bình Phước,Tỉnh,Miền Nam,ĐÔNG NAM BỘ
+46,Tây Ninh,Tỉnh,Miền Nam,ĐÔNG NAM BỘ
+47,Bình Dương,Tỉnh,Miền Nam,ĐÔNG NAM BỘ
+48,Đồng Nai,Tỉnh,Miền Nam,ĐÔNG NAM BỘ
+49,Bà Rịa - Vũng Tàu,Tỉnh,Miền Nam,ĐÔNG NAM BỘ
+50,Hồ Chí Minh,Thành phố Trung ương,Miền Nam,ĐÔNG NAM BỘ
+51,Long An,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+52,Tiền Giang,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+53,Bến Tre,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+54,Trà Vinh,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+55,Vĩnh Long,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+56,Đồng Tháp,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+57,An Giang,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+58,Kiên Giang,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+59,Cần Thơ,Thành phố Trung ương,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+60,Hậu Giang,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+61,Sóc Trăng,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+62,Bạc Liêu,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
+63,Cà Mau,Tỉnh,Miền Nam,ĐỒNG BẰNG SÔNG CỬU LONG
